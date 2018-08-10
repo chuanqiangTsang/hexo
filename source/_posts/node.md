@@ -217,3 +217,5 @@ Mongoose插入的方法很多，我为了练习，选择了insertMany。
 # 结语
 从项目搭建，到接口书写，再到数据库的建立，整个流程下来，算是最最基本的全栈了。
 前端路长，人生苦短，且行且学习。
+
+[项目源码](https://github.com/chuanqiangTsang/Msgboard/)
